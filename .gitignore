@@ -1,0 +1,25 @@
+# C++
+build
+
+# Go
+
+# Java
+.gradle
+java/*/build
+
+# JavaScript
+node_modules
+package-lock.json
+
+# Python
+.venv
+.pytest_cache
+uv.lock
+__pycache__
+
+# Rust
+target
+Cargo.lock
+
+# web-ui
+!web-ui/pnpm-lock.yaml

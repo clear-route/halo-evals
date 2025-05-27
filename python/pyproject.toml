@@ -1,0 +1,9 @@
+[project]
+name = "python-exercises"
+version = "0.1.0"
+description = "Python exercises for Roo Code `Roo-Code-Benchmark`"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pytest>=8.3.5",
+]
